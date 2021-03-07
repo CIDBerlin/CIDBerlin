@@ -1,6 +1,6 @@
 # 👋 Hi, my name is **Anton Polyakov**!
 ## 📫 I'm beginner *Front-end developer* from Rostov-on-Don.
-### 🤔 Have best experience with RageMP interfaces
+### 🤔 Have best experience with GTA V (RageMP) interfaces
 ### ⚡ Languages and technologies:
 ![HTML](https://img.shields.io/badge/-HTML-161616?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css)
