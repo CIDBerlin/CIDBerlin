@@ -9,6 +9,6 @@
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-161616?style=for-the-badge&logo=typescript)
 ![REACTJS](https://img.shields.io/badge/-REACTJS-161616?style=for-the-badge&logo=react)
 ### 💬 Mail me: Anton@Polyakov.im
-### 👯 Telegram: BerlinCID | Instagram: [CIDBerlin](https://www.instagram.com/cidberlin/)
+### 👯 Vk: [CIDBerlin](https://vk.com/cidberlin)
 > "Веду собственный блок о фронтенде" <br/>
 > ***Inst: @frontend.brothers***
