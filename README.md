@@ -10,5 +10,5 @@
 ![REACTJS](https://img.shields.io/badge/-REACTJS-161616?style=for-the-badge&logo=react)
 ### 💬 Mail me: Anton@Polyakov.im
 ### 👯 Telegram: BerlinCID | Instagram: [CIDBerlin](https://www.instagram.com/cidberlin/)
-> "Sunny days wouldn’t be special, if it wasn’t for rain. Joy wouldn’t feel so good if it wasn’t for pain" <br/>
-> ***Curtis Jackson***
+> "Веду собственный блок о фронтенде" <br/>
+> ***Inst: @frontend.brothers***
