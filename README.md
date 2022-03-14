@@ -8,4 +8,4 @@
 ### 💬 Mail me: Anton@Polyakov.im
 ### 👯 Telegram: [AnyPercent](https://t-do.ru/any_percent)
 > "Веду собственный блок о фронтенде" <br/>
-> ~~***Inst: @frontend.brothers***~~ BANNED
+> ~~***Inst: @frontend.brothers***~~ [BANNED]
